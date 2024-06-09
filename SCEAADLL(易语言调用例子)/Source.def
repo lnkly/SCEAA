@@ -1,7 +1,0 @@
-LIBRARY
-EXPORTS
-add
-initSCEAA
-runScriptCode
-isRightFulCode
-deleteScript
